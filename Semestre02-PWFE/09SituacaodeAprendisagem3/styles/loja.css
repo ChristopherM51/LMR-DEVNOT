@@ -1,0 +1,14 @@
+.filtros {
+    font: 1em sans-serif;
+    color: white;
+    margin-left: 8px;
+    margin-top: 125px;
+    width: 170px;
+    height: 450px;
+    padding: 10px;
+    background-color: var(--primary-color);
+    justify-content: left;
+}
+.filtros h3 {
+    text-align: center;
+}
